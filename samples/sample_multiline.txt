@@ -1,0 +1,11 @@
+28/09/2026, 22:32 - Paula: hello
+this is another line
+and another line
+28/09/2026, 22:33 - Liam: Got it!
+Multilines are tricky but crucial to handle properly.
+Here is a list:
+- Item 1
+- Item 2
+- Item 3
+28/09/2026, 22:34 - Paula: Fantastic!
+Everything works seamlessly.
